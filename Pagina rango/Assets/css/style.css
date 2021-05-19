@@ -10,6 +10,9 @@ p
 font-size: 20px; 
 }
 
+.justify{
+    text-align: justify;
+}
 .container{
     display: flex;
     flex-flow: row; 
@@ -33,8 +36,30 @@ font-size: 20px;
 #menu li a {
     text-decoration: none;
     color: black;
+    font-size: 17px;
 }
 
 #menu li a:hover {
- color: aqua;   
+ color: blue; 
+}
+
+.p-30{
+    padding: 30px;
+}
+
+.wh{
+width: 400px;
+height: 400px;
+}
+
+.tm-social{
+    width: 50px;
+}
+
+.mb-50{
+    margin-bottom: 50px;
+}
+
+.ml-50{
+margin-left: 50px;
 }
