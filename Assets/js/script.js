@@ -63,11 +63,11 @@ function validaEmail(){
  }
 
  function zoom(){
- mapa.style.width = '600px'
- mapa.style.height = '400px'
+ mapa.style.width = '605px'
+ mapa.style.height = '405px'
  }
 
  function normal(){
-    mapa.style.width = '350px'
-    mapa.style.height = '200px'
+    mapa.style.width = '355px'
+    mapa.style.height = '205px'
  }
