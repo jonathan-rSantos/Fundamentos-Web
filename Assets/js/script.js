@@ -63,7 +63,6 @@ function validaEmail(){
  }
 
  function zoom(){
-<<<<<<< HEAD
  mapa.style.width = '605px'
  mapa.style.height = '405px'
  }
@@ -72,13 +71,4 @@ function validaEmail(){
     mapa.style.width = '355px'
     mapa.style.height = '205px'
  }
-=======
- mapa.style.width = '600px'
- mapa.style.heigth = '400px'
- }
 
- function normal(){
-    mapa.style.width = '350px'
-    mapa.style.heigth = '250px'
- }
->>>>>>> javaScript
