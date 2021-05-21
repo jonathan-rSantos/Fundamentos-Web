@@ -71,4 +71,3 @@ function validaEmail(){
     mapa.style.width = '355px'
     mapa.style.height = '205px'
  }
-
